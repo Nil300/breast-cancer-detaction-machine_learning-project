@@ -29,4 +29,8 @@ Breast cancer (BC) is one of the most common cancers among women worldwide, repr
 
 **Genetic factors.** Women with certain genetic mutations, including changes to the BRCA1 and BRCA2 genes, are at higher risk of developing breast cancer during their lifetime. Other gene changes may raise breast cancer risk as well.
 
-![](C:/Users/Nil/Pictures/Screenshots/Screenshot (2).png)
+
+
+
+**You Can Also use Web App of this model just download zip file run locally or on cloud**
+![](https://raw.githubusercontent.com/Nil300/breast-cancer-detaction-project/main/Screenshot%20(2).png)
