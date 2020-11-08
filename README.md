@@ -28,3 +28,5 @@ Breast cancer (BC) is one of the most common cancers among women worldwide, repr
 **Family history of breast cancer.** A woman has a higher risk of breast cancer if her mother, sister or daughter had breast cancer, especially at a young age (before 40). Having other relatives with breast cancer may also raise the risk.
 
 **Genetic factors.** Women with certain genetic mutations, including changes to the BRCA1 and BRCA2 genes, are at higher risk of developing breast cancer during their lifetime. Other gene changes may raise breast cancer risk as well.
+
+![](https://drive.google.com/file/d/11UVTn-AGiTMgDen8vRRsy5HiwZ8vidPh/view?usp=sharing)
